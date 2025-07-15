@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177410857070",
+    "project_id": "gymgram-93a48",
+    "storage_bucket": "gymgram-93a48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177410857070:android:b29375cdcb645987a7ee7f",
+        "android_client_info": {
+          "package_name": "com.gymgram.beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUwjzxiMpQlhci8Pbzicpe5g7kyft0zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

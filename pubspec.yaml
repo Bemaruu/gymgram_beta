@@ -1,0 +1,37 @@
+name: gymgram_beta
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  intl: ^0.18.1
+
+  # 🔥 Firebase core
+  firebase_core: ^2.24.2
+
+  # 🔐 Firebase Authentication
+  firebase_auth: ^4.15.0
+
+  # ☁️ Firestore (base de datos)
+  cloud_firestore: ^4.13.0
+
+  # 📊 (Opcional) Firebase Analytics
+  firebase_analytics: ^10.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
